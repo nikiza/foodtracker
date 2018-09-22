@@ -1,0 +1,34 @@
+html body {
+  background-color: #ffe6cc;
+}
+
+h1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.navbar-brand {
+  font-family: Didot, regular;
+  font-size: 2em;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-right: 200px;
+  margin-left: 5px;
+}
+
+.nav-link {
+ font-size: 12px;
+ font-family: Didot, regular;
+ color: black;
+ padding-left: 100px;
+}
+
+.container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: Didot, regular;
+}
